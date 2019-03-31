@@ -1,0 +1,7 @@
+{
+  "name": "ansible-lambda-layer",
+  "description": "A lambda Layer for running ansible in Python 3.6 Lambda functions",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
